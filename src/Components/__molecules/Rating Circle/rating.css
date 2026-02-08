@@ -1,0 +1,26 @@
+.circle {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+    rgba(47, 44, 233, 1),
+    rgba(105, 67, 255, 1),
+    rgba(119, 85, 255, 1)
+  );
+  border-radius: 100%;
+}
+
+.your-rating {
+  color: white;
+  font-weight: 800;
+  font-size: 72px;
+}
+
+.max-rating {
+  color: rgba(202, 201, 255, 1);
+  font-size: 18px;
+  font-weight: 700;
+}
