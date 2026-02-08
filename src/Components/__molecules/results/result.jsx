@@ -1,4 +1,4 @@
-import Rating from "../ratingcircle/Rating";
+import Rating from "../ratingcircle/rating";
 import "./result.css";
 
 function Result() {
