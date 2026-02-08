@@ -1,4 +1,4 @@
-import Result from "../../__molecules/results/results";
+import Result from "../../__molecules/results/result";
 import Summary from "../../__molecules/Summary/summary";
 import "./container.css";
 
